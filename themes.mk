@@ -161,4 +161,13 @@ PRODUCT_PACKAGES += \
 
 #Prebuilt app	
 PRODUCT_PACKAGES += \
-    WeatherIcons 
+    WeatherIcons
+
+# System-wide Sliders Styles
+PRODUCT_PACKAGES += \
+    SliderStylesDaniel \
+    SliderStylesDefault \
+    SliderStylesMemeMini \
+    SliderStylesMemeRound \
+    SliderStylesMemeRoundStroke \
+    SliderStylesMemeStroke	
