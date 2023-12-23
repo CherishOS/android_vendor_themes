@@ -119,3 +119,8 @@ PRODUCT_PACKAGES += \
     VolumeOutline \
     VolumeShadedLayer \
     VolumeAOSPRevamped
+
+# QS UI Style
+PRODUCT_PACKAGES += \
+    A11QSUI \
+    ReevaluateSysUIOverlay
