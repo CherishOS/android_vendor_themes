@@ -98,29 +98,29 @@ PRODUCT_PACKAGES += \
     AndroidClearThemeOverlay \
     AndroidVividThemeOverlay 
 	
-# QS Panel
-PRODUCT_PACKAGES += \
-    QSOutline \
-    QSTwoToneAccent \
-    QSTwoToneAccentTrans \
-    QSShaded \
-    QSCyberPunk \
-    QSNeumorph \
-    QSReflected \
-    QSSurround \
-    QSThin
+# # QS Panel
+# PRODUCT_PACKAGES += \
+#     QSOutline \
+#     QSTwoToneAccent \
+#     QSTwoToneAccentTrans \
+#     QSShaded \
+#     QSCyberPunk \
+#     QSNeumorph \
+#     QSReflected \
+#     QSSurround \
+#     QSThin
 
-# Volume Styles
-PRODUCT_PACKAGES += \
-    VolumeDoubleLayer \
-    VolumeGradient \
-    VolumeNeumorph \
-    VolumeNeumorphOutline \
-    VolumeOutline \
-    VolumeShadedLayer \
-    VolumeAOSPRevamped
+# # Volume Styles
+# PRODUCT_PACKAGES += \
+#     VolumeDoubleLayer \
+#     VolumeGradient \
+#     VolumeNeumorph \
+#     VolumeNeumorphOutline \
+#     VolumeOutline \
+#     VolumeShadedLayer \
+#     VolumeAOSPRevamped
 
-# QS UI Style
-PRODUCT_PACKAGES += \
-    A11QSUI \
-    ReevaluateSysUIOverlay
+# # QS UI Style
+# PRODUCT_PACKAGES += \
+#     A11QSUI \
+#     ReevaluateSysUIOverlay
