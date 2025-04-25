@@ -45,6 +45,7 @@ PRODUCT_PACKAGES += \
     FontGeneralSansOverlay \
     FontGoogleSansFlexOverlay \
     FontHarmonySansOverlay \
+    FontIBMPlexSansOverlay \
     FontLatoOverlay \
     FontLinotteOverlay \
     FontNokiaPureOverlay \
