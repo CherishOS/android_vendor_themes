@@ -192,7 +192,6 @@ PRODUCT_PACKAGES += \
     HuaweiSignalOverlay \
     IOSSignalOverlay \
     InsideSignalOverlay \
-    IosSignalOverlay \
     JapaneseSignalOverlay \
     KoalaSignalOverlay \
     LineDotSignalOverlay \
