@@ -13,8 +13,8 @@
 // limitations under the License.
 
 runtime_resource_overlay {
-    name: "IosSignalOverlay",
+    name: "IOSSignalOverlay",
     product_specific: true,
     sdk_version: "current",
-    theme: "IosSignal",
+    theme: "IOSSignal",
 }
